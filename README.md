@@ -56,6 +56,7 @@ These findings suggest opportunities for differentiated customer targeting and p
 ├── 3 AP clustering and Knowledge.ipynb
 ├── 4 Comparison.ipynb
 ├── marketing_campaign.csv
+├── [ML][Affinity Propagation]_Present.pdf
 └── README.md
 ```
 
